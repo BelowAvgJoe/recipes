@@ -1,0 +1,7 @@
+= Recipes
+:experimental:
+:hardbreaks-option:
+:icons: font
+
+== Purpose
+I'm writing down the recipes I use, both so I remember and so anyone else can use them too.
