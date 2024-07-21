@@ -1,0 +1,36 @@
+= Taco Bell Creamy Jalapeno
+:keywords: 
+:navtitle: 
+:description:
+:experimental: 
+:hardbreaks-option:
+:imagesdir: ../images
+:source-highlighter: highlight.js
+:icons: font
+:table-stripes: even
+:tabs:
+:tabs-sync-option:
+
+== Ingredients
+
+image::tb-jalapeno_sauce.png[float="right"]
+
+* Mayo (1 cup)
+* Sour Cream (1 cup)
+* Pickled Jalapenos (¼ cup)
+* Brine (3 tbsp)
+* Garlic Powder (1 tbsp)
+* Onion Powder (1 tbsp)
+* Cumin (2 tbsp)
+* Paprika (2 tbsp)
+* Chili Powder (1 tbsp)
+* Sugar (1 tsp)
+* Salt (tt)
+
+
+
+== Source
+
+https://youtube.com/shorts/zujx2jdcNvI?si=LkbQUAE-TLdxdWLL[Youtube Short]
+
+video::zujx2jdcNvI[youtube]

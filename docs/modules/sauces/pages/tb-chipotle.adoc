@@ -1,0 +1,33 @@
+= Taco Bell Chipolte Sauce
+:keywords: 
+:navtitle: 
+:description:
+:experimental: 
+:hardbreaks-option:
+:imagesdir: ../images
+:source-highlighter: highlight.js
+:icons: font
+:table-stripes: even
+:tabs:
+:tabs-sync-option:
+
+== Ingredients
+
+image::tb-chipotle_sauce.png[float="right"]
+
+* Mayo (1 cup)
+* Sour Cream (¼ cup)
+* Chipotle Peppers (3)
+* Garlic Powder (1 tbsp)
+* Onion Powder (½ tbsp)
+* Smoked Paprika (½ tbsp)
+* Salt (tt)
+* Pepper (tt)
+* Lime Juice (½ Lime)
+* Pickled Jalapeno Juice or Vinegar (1 ½ tbsp)
+
+
+
+== Source
+
+https://www.youtube.com/shorts/-qC9auIZ82U[Youtube Short]
