@@ -1,0 +1,33 @@
+= Enchilada Sauce
+:keywords: 
+:navtitle: 
+:description:
+:experimental: 
+:hardbreaks-option:
+:imagesdir: ../images
+:source-highlighter: highlight.js
+:icons: font
+:table-stripes: even
+:tabs:
+:tabs-sync-option:
+
+== Source
+https://www.holajalapeno.com/enchilada-sauce/[]
+
+== Ingredients
+- [ ] 1 (14-ounce) can diced, fire-roasted tomatoes
+- [ ] 1/2 small white onion, diced
+- [ ] 2 cloves garlic, chopped
+- [ ] 2 teaspoons kosher salt
+- [ ] 1 teaspoon ground cumin
+- [ ] 1 teaspoon dried oregano (preferably Mexican oregano)
+- [ ] 2-3 canned chipotle peppers in adobo sauce (depending on how spicy you'd like it)
+
+== Instructions
+. Blend. Combine all ingredients in a blender and blend until smooth.
+
+== Notes
+Freezing Instructions: Freeze in a freezer-friendly container for up to 3-6 months. Thaw on the counter or in the refrigerator. Warm up in the microwave or on the stove, if desired.
+Special Tools (affiliate links): Blender
+Spice-Level: The sauce is medium spicy with 2 chipotles. Use less or more depending on how spicy you like things.
+Thicker Sauce: If you'd like a thicker sauce transfer the sauce to a saucepan and cook over medium heat until it is reduced and thicker.
