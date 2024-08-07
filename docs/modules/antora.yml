@@ -1,0 +1,5 @@
+name: cook_this
+title: Cook this
+version: ~
+nav:
+  - modules/welcome/nav.adoc
