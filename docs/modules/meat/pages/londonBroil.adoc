@@ -1,0 +1,40 @@
+= London Broil
+:keywords: 
+:navtitle: 
+:description:
+:experimental: 
+:hardbreaks-option:
+:imagesdir: ../images
+:source-highlighter: highlight.js
+:icons: font
+:table-stripes: even
+:tabs:
+:tabs-sync-option:
+
+== Ingredients 
+
+- [ ] Beef (London Broil or Top Round your choice)
+- [ ] Lea & Perrin's Worcestershire sauce
+- [ ] Soy sauce
+- [ ] Garlic (powder or minced)
+- [ ] Onion (powder or finely chopped)
+- [ ] Ginger powder
+- [ ] Salt
+- [ ] Pepper
+
+== Instructions
+
+Medium Rare 145 Degrees
+Medium 160 Degrees
+Well Done 170 Degrees
+
+=== Marinade
+In a mixing bowl, add Worcestershire sauce and Soy sauce (2:1 ratio) and dry ingredients. Mix/stir to combine, and cover beef. Can use a ziplock bag if you don't have another sealing container.
+
+=== Oven
+
+Preheat oven to 400 degrees, put London Broil and sauce into a cooking pan and cover with aluminum foil. Cook until desired tempature reached.
+
+=== Smoker
+
+Preheat to 225 degrees. Cook for 2 hours until desired tempature.
