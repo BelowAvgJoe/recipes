@@ -1,0 +1,19 @@
+= Danny's Chicken
+:keywords: 
+:navtitle: 
+:description:
+:experimental: 
+:hardbreaks-option:
+:imagesdir: ../images
+:source-highlighter: highlight.js
+:icons: font
+:table-stripes: even
+:tabs:
+:tabs-sync-option:
+
+
+== Ingredients
+Chicken Breast
+Wishbone italian dressing
+
+== Directions
