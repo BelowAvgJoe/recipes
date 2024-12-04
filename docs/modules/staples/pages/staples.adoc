@@ -1,0 +1,49 @@
+= Kitchen Staples
+:keywords: 
+:navtitle: 
+:description:
+:experimental: 
+:hardbreaks-option:
+:imagesdir: ../images
+:source-highlighter: highlight.js
+:icons: font
+:table-stripes: even
+:tabs:
+:tabs-sync-option:
+
+== Why
+This is a checklist of the things to keep in your kitchen.
+
+== Dry
+* [ ] rice
+** [ ] white
+** [ ] jasmine
+
+* [ ] pasta
+** [ ] elbow
+** [ ] shells
+** [ ] spaghetti
+** [ ] fetichini
+
+* [ ] pinto beans
+
+* [ ] flour
+* [ ] sugar
+** [ ] white/granulated
+** [ ] light brown
+
+== Canned
+* [ ] tomatoes
+** [ ] crushed
+** [ ] diced
+
+* [ ] refried beans
+* [ ] ranch style beans
+
+== Wet
+* [ ] olive oil
+
+* [ ] vinager
+** [ ] apple cider
+** [ ] white
+** [ ] distiled 
