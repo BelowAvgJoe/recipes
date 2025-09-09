@@ -1,0 +1,33 @@
+= Creamy Chipotle Sauce
+:keywords: 
+:navtitle: 
+:description:
+:experimental: 
+:hardbreaks-option:
+:imagesdir: ../images
+:source-highlighter: highlight.js
+:icons: font
+:table-stripes: even
+:tabs:
+:tabs-sync-option:
+
+== Source
+https://www.youtube.com/watch?v=RN1Yng9GXJM[Youtube]
+
+== Ingredients 
+- [ ] 7-ounce can of chipotles in adobo sauce, or use chipotle sauce
+- [ ] ½ cup Mexican crema sour cream is good, too
+- [ ] ¼ cup mayonnaise
+- [ ] 3 tablespoons chopped cilantro
+- [ ] 1 teaspoon cayenne powder
+- [ ] 1 teaspoon garlic powder
+- [ ] ½ teaspoon cumin
+- [ ] Salt to taste
+
+== Instructions
+
+Throw everything into a blender and mix.
+
+How to affect the heat.
++/- cayenne powder
++/- seeds from chipotle peppers

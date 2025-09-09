@@ -1,0 +1,41 @@
+= Smoked Corned Beef
+:keywords: 
+:navtitle: 
+:description:
+:experimental: 
+:hardbreaks-option:
+:imagesdir: ../images
+:source-highlighter: highlight.js
+:icons: font
+:table-stripes: even
+:tabs:
+:tabs-sync-option:
+
+== Source
+https://meateatingmilitaryman.com/smoked-corned-beef/[]
+
+== Ingredients
+	• 3-5lbsCorned Beef Brisket
+
+=== Rub
+
+- [ ] 2tbspBrown Sugar
+- [ ] 2tbspGround Black Pepper
+- [ ] 2tbspCoriander Powder
+- [ ] 2tbspPaprika
+- [ ] 1tbspGarlic Powder
+- [ ] 1tbspOnion Powder
+
+== Instructions
+
+. Place meat in a bowl and cover with water.
+. Place the bowl containing the meat and water in the refrigerator overnight. 
+. Add hickory wood chips to the smoker. 
+. Preheat smoker to 275F.
+. Place rub ingredients into a shallow bowl and mix together.
+. Remove the meat from the water and pat dry.
+. Trim meat of excess fat if needed.
+. Coat the meat generously with the spice rub.
+. Place meat in the smoker and smoke until internal temperature reaches 160F. This takes about 2-3 hours.
+. Wrap meat with foil or butcher paper. Place meat back in the smoker and cook until internal temperature reaches 195F.  This will take an additional 2-3 hours.
+. Let meat rest for at least 30 minutes before slicing and serving. 

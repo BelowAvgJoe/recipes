@@ -1,0 +1,46 @@
+= Enchilada Casserole
+:keywords: 
+:navtitle: 
+:description:
+:experimental: 
+:hardbreaks-option:
+:imagesdir: ../images
+:source-highlighter: highlight.js
+:icons: font
+:table-stripes: even
+:tabs:
+:tabs-sync-option:
+
+== Source
+https://www.holajalapeno.com/enchilada-casserole/[]
+
+== Ingredients
+- [ ] 6 tablespoons avocado oil or other neutral oil
+- [ ] 1 medium white onion, chopped
+- [ ] 4 cloves garlic, chopped
+- [ ] 1 pound ground beef
+- [ ] 1 1/2 teaspoons ground coriander
+- [ ] 1 1/2 teaspoons dried marjoram
+- [ ] 1/2 teaspoon ground árbol chile powder
+- [ ] 1 1/2 teaspoons kosher salt, plus more for seasoning
+- [ ] 1 (19.75 ounce) can pinto beans, drained and rinsed
+- [ ] 9 (6-inch) corn tortillas
+- [ ] 1 recipe Super Easy Enchilada Sauce
+- [ ] 8 ounces sour cream
+- [ ] 16 ounces Monterey jack cheese, shredded (you should have about 4 1/2 cups shredded)
+- [ ] Thinly sliced green onion, for garnish
+- [ ] Chopped cilantro, for garnish
+
+== Instructions
+
+. Heat oven. Heat oven to 350°F and spray an 8 x 8-inch baking dish with cooking spray.
+. Saute the veggies. Heat 2 tablespoons of the oil in a large frying pan over medium-high heat. Add onion and season with salt. Let cook, stirring occasionally, until it becomes tender, about 4 minutes. Add garlic and cook a minute more.
+. Brown the beef. Add beef and brown, breaking it up with the back of a wood spoon until the meat and onions are well combined.
+. Toast the spices. Once beef is almost completley browned, add coriander, marjoram, and arbol chile powder and let the spices bloom in the hot fat. Add the beans and stir to combine. Set aside.
+. Fry the tortillas. Heat remaining 1/4 cup of oil in a medium frying pan over medium-high heat. Add the tortillas one or two at a time (depending on how big your pan is) and cook until golden and crisp on both sides, about 2-3 minutes each. Drain on paper towels.
+. Layer. Spread 1/2 cup of enchilada sauce over the bottom of the baking dish. Cover with 3 tortillas. Top with 1/3 of the meat mixture, 1/3 of the sour cream, and 1/3 of the cheese. Spread each layer out to the very edge of the dish covering as much area as possible.
+. Repeat. Starting with the sauce again, repeat the layers two more times: Sauce, tortillas, meat, sour cream, cheese. You will have to press down firmly on each layer to get it all to fit.
+. Bake. Cover a baking sheet with a piece of foil and set baking dish on top to catch any drips. Bake uncovered for 50-60 minutes or until cheese is melted and filling is bubbling.
+. Broil. If you want the top really browned you can toast it under the broiler for 3-4 minutes.
+. Cool. Let sit at least 15 minutes before slicing otherwise all the layers will just ooze all over.
+. Serve. Slice into 8-10 pieces, depending on how big you want the servings. Garnish with lots of chopped green onion and cilantro and serve.

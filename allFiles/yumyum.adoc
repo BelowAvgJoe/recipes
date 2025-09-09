@@ -1,0 +1,27 @@
+= Yum Yum Sauce
+:keywords: 
+:navtitle: 
+:description:
+:experimental: 
+:hardbreaks-option:
+:imagesdir: ../images
+:source-highlighter: highlight.js
+:icons: font
+:table-stripes: even
+:tabs:
+:tabs-sync-option:
+
+== Ingredients 
+* Mayo (2 cups)
+* Ketchup (1/4 cup)
+* Unsalted Melted Butter (4 tbsp)
+* Rice Vinegar (2 tbsp)
+* Garlic Powder (1 tbsp)
+* Smoked Paprika (1 tbsp)
+* Sugar (1.5 tbsp)
+* Salt (to taste)
+* Pepper (to taste)
+
+== Source
+
+https://www.youtube.com/shorts/IF5y1dJ3yFc[Youtube Short]
