@@ -1,4 +1,4 @@
-= Danny's Chicken
+= Chili
 :keywords: 
 :navtitle: 
 :description:
@@ -11,9 +11,9 @@
 :tabs:
 :tabs-sync-option:
 
-
 == Ingredients
-Chicken Breast
-Wishbone Italian dressing
+
 
 == Directions
+
+14.1.1

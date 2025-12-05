@@ -11,7 +11,7 @@
 :tabs:
 :tabs-sync-option:
 
-Ingredients
+== Ingredients
 1 (8 pound) pork shoulder roast 1 quart apple cider, or as needed BBQ Rub: 
 5 tablespoons white sugar
 5 tablespoons light brown sugar 
@@ -24,7 +24,7 @@ Ingredients
 White Onion, Large 
  3 cups hickory chips, or more as needed, soaked in water
 
-Recipe 
+== Recipe 
 Prep 10 m
 Cook 8 h
 Ready In 20 h 10 m
@@ -35,5 +35,5 @@ Pour cider brine into the water pan of the smoker; add onion and about 1/4 cup m
 Smoke pork until very tender, about 8 hours. Monitor hickory chips and liquid, adding more wood and water, respectively, as needed. Transfer pork to a large platter and cool for 30 minutes before shredding with forks.
 
 
-Alternative
+== Alternative
 Mix dry ingredients in 1 quart apple cider mix thoroughly. Inject pork with mixture, place cut white onions on top of pork and let marinade for 12 hours
