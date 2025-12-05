@@ -1,0 +1,35 @@
+= Chipolte BBQ sauce
+:keywords: 
+:navtitle: 
+:description:
+experimental:
+:hardbreaks-option:
+:imagesdir: ../images
+:source-highlighter: highlight.js
+:icons: font
+:table-stripes: even
+
+== Ingredients
+* 4 tablespoons butter (can substitute vegetable oil)
+* 1/2 onion, grated
+* Kosher salt, to taste
+* 1 to 4 chipotle chiles in adobo (depending on how hot you want your bbq sauce)
+* 1 (15-ounce) can crushed tomatoes
+* 1/2 cup cider vinegar
+* 1/4 cup molasses
+* 2 tablespoons brown sugar
+* 1 teaspoon liquid smoke
+* 1 tablespoon finely chopped fresh sage
+
+== Directions
+. Sauté the grated onion in butter:
+Heat the butter in a heavy pot over medium-high heat until it froths (or heat vegetable oil until hot), then add the grated onion. Sprinkle a little salt over the onion. Sauté until the onion just begins to color, about 4 to 5 minutes.
+
+. Mince the chipotle chile:
+While the onions are cooking, finely chop the chipotle chiles in adobo. They are hot, so start with one chile. You can add as many more as you want later.
+
+. Add chipotle and remaining ingredients to the onions:
+Add the chipotle to with the onions, then add the tomatoes, vinegar, molasses, sugar, liquid smoke, and chopped sage. Stir to combine and let this simmer for 5 minutes. Taste it and add salt and more chipotle if you want.
+
+. Simmer:
+Simmer the sauce gently, uncovered, for 1 hour. Before serving, taste one more time for salt and chile.

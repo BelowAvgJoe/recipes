@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-= Danny's Chicken
-:keywords: 
-:navtitle: 
-:description:
-:experimental: 
-:hardbreaks-option:
-:imagesdir: ../images
-:source-highlighter: highlight.js
-:icons: font
-:table-stripes: even
-:tabs:
-:tabs-sync-option:
-
-
-== Ingredients
-Chicken Breast
-Wishbone Italian dressing
-
-== Directions
-=======
 = Danny's Chicken
 :keywords: 
 :navtitle: 
@@ -45,4 +24,3 @@ Wishbone italian dressing
 		],
 		"description": "Opening attributes"
 	}
->>>>>>> 92ba17b039f220f307017cf6969debd95359f078
