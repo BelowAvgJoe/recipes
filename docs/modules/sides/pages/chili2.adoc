@@ -1,0 +1,61 @@
+= 30 Minute Chili (Brian Lagerstrom)
+:keywords: chili, beef, quick
+:navtitle: 30 Minute Chili
+:description: A quick chili with deep, slow-cooked flavor using a broiler hack.
+:experimental: 
+:hardbreaks-option:
+:imagesdir: ../images
+:source-highlighter: highlight.js
+:icons: font
+:table-stripes: even
+:tabs:
+:tabs-sync-option:
+
+FOR THIS RECIPE YOU'LL NEED:
+
+MEAT:
+2.5 lbs 80/20 ground beef
+
+AROMATICS:
+1 large white onion, small diced
+5-6 cloves garlic, pressed
+
+TOMATO BASE:
+2 cans (14.5 oz each) diced tomatoes, drained
+1 can (15 oz) tomato sauce
+1 can (28 oz) fire-roasted tomatoes
+2 smoked chipotle peppers in adobo
+3 tbsp tomato paste
+
+SPICES:
+1/2 cup chili powder
+1/4 cup paprika
+1.5 tbsp ground cumin
+1 tsp chili flakes
+
+FLAVOR BOOSTERS:
+2 tbsp brown sugar
+2 tbsp Worcestershire sauce
+1 tbsp apple cider vinegar
+1.5 tbsp beef bouillon paste (e.g., Better Than Bouillon)
+4 tsp hot sauce (e.g., Frank's RedHot)
+2 tsp salt (plus more to taste)
+
+BEANS:
+4 cans (16 oz each) kidney beans, drained
+
+LIQUID:
+Water or beef stock (as needed to adjust thickness)
+
+== Directions
+
+1. **Broil the Beef:** Flatten the ground beef into a thin, even sheet on a large sheet tray. Broil on high (about 8 inches from the heat) for 8–10 minutes until the top is deeply browned and slightly charred. Let it cool, then crumble it into small pieces, keeping the rendered fat/juices.
+2. **Prep the Tomatoes:** Use an immersion blender to blend the fire-roasted tomatoes and the 2 chipotle peppers until smooth.
+3. **Sauté Aromatics:** In a large pot over medium heat, add olive oil, diced onion, garlic, and a pinch of salt. Sweat for 5–6 minutes until the onions are completely softened.
+4. **Toast Spices:** Add the chili powder, paprika, cumin, and chili flakes. Stir and toast for 20–30 seconds to bloom the spices (be careful not to burn them).
+5. **Build the Base:** Stir in the blended tomato mixture, tomato sauce, drained diced tomatoes, and tomato paste. Scrape the bottom of the pot to incorporate any stuck spices.
+6. **Add Seasonings:** Add the hot sauce, brown sugar, Worcestershire sauce, cider vinegar, beef bouillon, and salt. Simmer for 5 minutes.
+7. **Combine:** Add the crumbled beef (and its juices) and the drained kidney beans to the pot. Simmer for at least 10 minutes to let the flavors meld.
+8. **Adjust & Serve:** If the chili is too thick, add a splash of water or stock. Taste and adjust with more salt, vinegar, or sugar if needed. Serve with toppings like sour cream, cheddar cheese, and diced onions.
+
+From <https://www.youtube.com/watch?v=8h7YSpu98Uc>

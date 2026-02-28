@@ -9,6 +9,7 @@
 
 //Sides
 * xref:sides:beans.adoc[Beans]
+* xref:sides:chili2.adoc[30 Minute Chili]
 
 //Try These
 * xref:tryThese:creamyChipotle.adoc[Creamy Chipotle]
